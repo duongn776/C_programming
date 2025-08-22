@@ -3,7 +3,6 @@
 #define MAX 10000001
 
 int freq[MAX];
-int printed[MAX];
 
 int main()
 {
